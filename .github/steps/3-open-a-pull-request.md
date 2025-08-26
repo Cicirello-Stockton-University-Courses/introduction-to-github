@@ -26,7 +26,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
 
 1. Click on the **Pull requests** tab in the header menu of your repository.
 2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
+3. In the **base:** dropdown, make sure **main** is selected for your fork of the assignment (the option that has your username in it).
 4. Select the **compare:** dropdown, and click `my-first-branch`.
 
    ![screenshot showing both branch selections](/images/pull-request-branches.png)
