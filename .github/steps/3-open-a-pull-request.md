@@ -20,7 +20,7 @@ You may have noticed after your commit that a message displayed indicating your 
 
 ![screenshot of message and button](/images/compare-and-pull-request.png)
 
-*IMPORTANT: In the steps below, when you create your Pull Request, make sure that the **base:** is the **main** branch in your fork of the assignment repository (the one that has your username). You might need to switch it from what it defaulted to.*
+**IMPORTANT: In the steps below, when you create your Pull Request, make sure that the `base:` is the `main` branch in your fork of the assignment repository (the one that has your username). You might need to switch it from what it defaulted to.**
 
 To create a pull request automatically, click **Compare & pull request**, and then skip to step 6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
 
